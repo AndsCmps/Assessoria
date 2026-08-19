@@ -1,0 +1,22 @@
+<svg width="480" height="340" viewBox="0 0 480 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldRing" x1="120" y1="40" x2="360" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7E67B"/>
+      <stop offset="0.45" stop-color="#E4C54A"/>
+      <stop offset="1" stop-color="#C79B1A"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <circle cx="240" cy="130" r="108" fill="#E8C748"/>
+    <circle cx="240" cy="130" r="90" fill="#0D3451"/>
+    <circle cx="240" cy="130" r="72" fill="#0B2C44" stroke="#F3D76C" stroke-width="4"/>
+
+    <path d="M214 80H266C279.255 80 290 90.7452 290 104V136H255V119H225V198H255V180H290V210C290 223.255 279.255 234 266 234H214C200.745 234 190 223.255 190 210V104C190 90.7452 200.745 80 214 80Z" fill="#F5D861"/>
+    <path d="M214 98H266C271.523 98 276 102.477 276 108V111H226V108C226 102.477 230.477 98 236 98H214Z" fill="#0D3451" opacity="0.9"/>
+    <path d="M225 132H255V186H225V132Z" fill="#F5D861"/>
+    <path d="M225 186H290V198H225V186Z" fill="#F5D861"/>
+  </g>
+
+  <text x="240" y="286" text-anchor="middle" font-size="58" font-weight="700" fill="#0E3D5C" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.02em">Troia</text>
+</svg>
